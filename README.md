@@ -1,7 +1,9 @@
 # Blog-Astro - Practice Project
 
 Used API: blog.alinsworld.com (alinervubon Bangla blog). <br>
-Developed by: Md. Rezwan Saki alin (13-July-2025) <br>
+Developed by: Md. Rezwan Saki alin (13-July-2025) <br> <br>
+
+Used framework: Astro JS <br>
 
 # Astro Starter Kit: Basics
 
