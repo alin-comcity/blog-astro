@@ -1,3 +1,8 @@
+# Blog-Astro - Practice Project
+
+Used API: blog.alinsworld.com (alinervubon Bangla blog). <br>
+Developed by: Md. Rezwan Saki alin (13-July-2025) <br>
+
 # Astro Starter Kit: Basics
 
 ```sh
@@ -38,9 +43,9 @@ To learn more about the folder structure of an Astro project, refer to [our guid
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `bun install`             | Installs dependencies                            |
+| Command               | Action                                           |
+| :-------------------- | :----------------------------------------------- |
+| `bun install`         | Installs dependencies                            |
 | `bun dev`             | Starts local dev server at `localhost:4321`      |
 | `bun build`           | Build your production site to `./dist/`          |
 | `bun preview`         | Preview your build locally, before deploying     |
